@@ -274,7 +274,7 @@ a
 .box-section
 {
     padding: 10px 5%;
-    gap: 1px;
+    gap: 50px;
     display: flex;
     flex-wrap: nowrap;
     justify-content: space-evenly;
@@ -305,7 +305,6 @@ a
 .get a
 {
     color: #000000;
-    text-wrap: 0;
 }
 
 
