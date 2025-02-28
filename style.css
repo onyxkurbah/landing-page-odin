@@ -301,6 +301,10 @@ a
 {
     height: 27px;
 }
+.footer a
+{
+    text-decoration: underline;
+}
 .contact
 {
     display: flex;
