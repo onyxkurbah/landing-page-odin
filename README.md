@@ -1,5 +1,10 @@
-## Odin Landing Page
+# Odin Landing Page  
 
-A simple landing page built as part of The Odin Project, showcasing what I've learned so far.
+A simple landing page built as part of [The Odin Project](https://www.theodinproject.com/), showcasing what I've learned so far.  
 
-IMAGE SOURCE:- [Tenor](tenor.com), [GIPHY](giphy.com)
+## 🔗 Live Demo  
+[Live Preview](https://onyxkurbah.github.io/landing-page-odin/)  
+
+## 📷 Image Sources  
+- [Tenor](https://tenor.com)  
+- [GIPHY](https://giphy.com)  
